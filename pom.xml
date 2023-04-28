@@ -11,5 +11,5 @@
         <maven.compiler.target>18</maven.compiler.target>
         <exec.mainClass>com.mycompany.mavenproject1.Mavenproject1</exec.mainClass>
     </properties>
-    <name>App_tineda1</name>
+    <name>1_App-tienda_Semana5</name>
 </project>
